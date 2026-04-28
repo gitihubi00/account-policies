@@ -12,7 +12,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `forge test -vvvv` - Run tests with maximum verbosity for debugging
 - `forge test --match-test testName` - Run specific test by name
 - `forge test --match-contract ContractName` - Run specific tests by test contract
-- `forge test --gas-report` - Generate gas usage report
 - `forge coverage --ir-minimum` - Generate test coverage report
 
 ### Development Workflow
